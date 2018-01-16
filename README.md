@@ -10,6 +10,8 @@ Lemmatized lists of adjectives extracted from Pedesis lexicon (Neuman et al. 201
 David Losada and Pablo Gamallo, "Evaluating and Improving a Lexical Resource for Detecting Signs of Depression in Text"
 ```
 
+## Resources
+
 * adj.txt, intial list
 * adj-nonamb.txt, only non-ambiguous adjectives
 * adj-noamb-exp.txt, non-ambiguous adjectives with distributional-based expansion.
